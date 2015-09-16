@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:51:14.816614
+#+DATE: 2015-08-30 20:51:16.180483
 #+TITLE: 阿毘達磨俱舍論本頌
 #+PROPERTY: CBETA_ID T29n1560
 #+PROPERTY: ID KR6l0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 29, No. 1560
 #+PROPERTY: VOL 29
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0029_T_000-0310c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6l0029_T_001-0310c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1560[cf.Nos.1558,1559,1561]¶
-
- 《阿毘達磨俱舍論本頌》(說一切有部)¶
+No. 1560 [cf. Nos. 1558, 1559, 1561]¶
+《阿毘達磨俱舍論本頌》(說一切有部)¶
 ¶
 世親菩薩造¶
 三藏法師玄奘奉　詔譯¶
 
-1分別界品
-:PROPERTIES:
-:head: 分別界品第一(四十四頌)
-:END:
-¶
+分別界品第一(四十四頌)¶
 
 #+BEGIN_VERSE
 「　諸一切種諸冥滅
@@ -221,11 +216,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-2分別根品
-:PROPERTIES:
-:head: 分別根品第二(七十四頌)
-:END:
-¶
+分別根品第二(七十四頌)¶
 
 #+BEGIN_VERSE
 「　傳說五於四
@@ -532,11 +523,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-3分別世界品
-:PROPERTIES:
-:head: 分別世界品第三(九十九頌)
-:END:
-¶
+分別世界品第三(九十九頌)¶
 
 #+BEGIN_VERSE
 「　地獄傍生鬼
@@ -949,11 +936,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-4分別業品
-:PROPERTIES:
-:head: 分別業品第四(一百三十一頌)
-:END:
-¶
+分別業品第四(一百三十一頌)¶
 
 #+BEGIN_VERSE
 「　世別由業生
@@ -1492,11 +1475,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-5分別隨眠品
-:PROPERTIES:
-:head: 分別隨眠品第五(六十九頌)
-:END:
-¶
+分別隨眠品第五(六十九頌)¶
 
 #+BEGIN_VERSE
 「　隨眠諸有本
@@ -1783,11 +1762,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-6分別賢聖品
-:PROPERTIES:
-:head: 分別賢聖品第六(八十三頌)
-:END:
-¶
+分別賢聖品第六(八十三頌)¶
 
 #+BEGIN_VERSE
 「　已說煩惱斷
@@ -2130,11 +2105,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-7分別智品
-:PROPERTIES:
-:head: 分別智品第七(六十一頌)
-:END:
-¶
+分別智品第七(六十一頌)¶
 
 #+BEGIN_VERSE
 「　聖慧忍非智
@@ -2389,11 +2360,7 @@ No.1560[cf.Nos.1558,1559,1561]¶
 #+END_VERSE
 」¶
 
-8分別定品
-:PROPERTIES:
-:head: 分別定品第八(三十九頌)
-:END:
-¶
+分別定品第八(三十九頌)¶
 
 #+BEGIN_VERSE
 「　靜慮四各二
