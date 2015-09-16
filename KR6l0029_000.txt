@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 阿毘達磨俱舍論本頌
+#+DATE: 2015-08-30 20:51:15.084888
+#+PROPERTY: JUAN 0
